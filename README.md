@@ -31,3 +31,12 @@ Para ejecutar este programa localmente, asegúrate de tener instalado Python 3 y
 3. Ejecuta el siguiente comando:
    ```bash
    python main.py
+
+============================================================
+RECURSO         | HORAS TOTALES | CLASIFICACIÓN  
+============================================================
+Ana Gómez       | 40            | Horario Estándar
+Carlos Ruiz     | 44            | Sobretiempo    
+Sofía Pérez     | 35            | Horario Estándar
+David Lyon      | 42            | Sobretiempo    
+============================================================
